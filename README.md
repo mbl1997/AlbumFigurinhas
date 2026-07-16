@@ -568,37 +568,6 @@ Principais páginas:
 
 ---
 
-## 🤝 Como contribuir
-
-1. Faça um fork do repositório;
-2. Crie uma branch para a alteração;
-3. Implemente e teste a funcionalidade;
-4. Registre um commit claro;
-5. Envie a branch;
-6. Abra um Pull Request.
-
-Exemplo:
-
-```bash
-git checkout -b feature/nome-da-funcionalidade
-git add .
-git commit -m "feat: adiciona nova funcionalidade"
-git push origin feature/nome-da-funcionalidade
-```
-
-### Padrão de commits
-
-| Prefixo | Finalidade |
-|---|---|
-| `feat` | Nova funcionalidade |
-| `fix` | Correção |
-| `docs` | Documentação |
-| `style` | Alterações visuais |
-| `refactor` | Refatoração |
-| `test` | Testes |
-| `chore` | Configurações e manutenção |
-
----
 
 ## 📄 Licença
 
