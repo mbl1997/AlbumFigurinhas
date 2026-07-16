@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="docs/images/capa-gauchao.png"
+       alt="Álbum de Figurinhas do Gauchão"
+       width="100%">
+</p>
+
 # ⚽ Álbum de Figurinhas Gauchão
 
 <p align="center">
