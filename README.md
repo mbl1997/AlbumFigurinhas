@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/capa-gauchao.png"
+  <img src="docs/images/capa-gauchao.jpg"
        alt="Álbum de Figurinhas do Gauchão"
        width="100%">
 </p>
